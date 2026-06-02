@@ -5,7 +5,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```python
+
 class ShibinPannikodan:
     def __init__(self):
         self.name = "Shibin Pannikodan"
@@ -17,7 +17,7 @@ class ShibinPannikodan:
         
     def motto(self):
         return "Architecting secure, concurrent backend systems and intelligent AI solutions."
-```
+
 
 <br clear="both" />
 
