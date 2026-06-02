@@ -1,19 +1,4 @@
-I apologize for that! When pasting into GitHub, if the formatting isn't perfectly spaced out, GitHub sometimes "eats" the code and doesn't render it properly. Also, you might have accidentally copied the triple backticks (```).
 
-Let's fix this right now. I have added **strict spacing** so GitHub's parser doesn't break, and I am giving you very clear instructions.
-
-### How to fix it:
-
-1. Go to your repository: `github.com/Shibinpk0/Shibinpk0`
-2. Click on `README.md`
-3. Click the **pencil icon (✏️)** to edit.
-4. Press **Ctrl + A** (Select All) and press **Delete**. The box must be completely empty.
-5. Copy the text in the black box below. 
-6. ⚠️ **IMPORTANT**: Do NOT copy the word "markdown" or the three backticks (```). Only copy the content inside!
-
-***
-
-```markdown
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHIBIN%20PANNIKODAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Full-Stack+Web+%7C+Django+%7C+MERN;Deep+Learning+%7C+TensorFlow+%7C+NLP;Architecting+Secure+Backend+Systems)](https://git.io/typing-svg)
@@ -170,12 +155,6 @@ class ShibinPannikodan:
 ```
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/Shibinpk0)
-```
 
-***
 
-### Next Steps:
-1. Paste it into GitHub.
-2. Before clicking **Commit changes**, click the **Preview** tab at the top left of the editing box. 
-3. Check if it looks like a proper profile with images and tables. 
-4. If it looks good in Preview, commit it! (Note: Stats cards sometimes take 30 seconds to generate for the very first time, so if they say "N/A" initially, just refresh your profile page after a minute).
+
