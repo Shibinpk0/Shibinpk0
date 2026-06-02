@@ -10,16 +10,20 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```python
 class ShibinPK:
+
     def __init__(self):
         self.name = "Shibin PK"
         self.role = "AI/ML & Data Science Enthusiast"
         self.location = "Kerala, India"
+
         self.languages = [
             "Python",
             "JavaScript",
             "Java"
         ]
+
         self.ai_stack = [
             "TensorFlow",
             "Scikit-Learn",
@@ -28,6 +32,7 @@ class ShibinPK:
             "OpenCV",
             "MediaPipe"
         ]
+
         self.web_stack = [
             "React",
             "Node.js",
@@ -35,6 +40,7 @@ class ShibinPK:
             "MongoDB",
             "Tailwind CSS"
         ]
+
         self.currently_learning = [
             "Deep Learning",
             "MLOps",
@@ -42,6 +48,7 @@ class ShibinPK:
             "Cybersecurity",
             "Advanced Data Science"
         ]
+
     def motto(self):
         return "Build. Learn. Improve. Repeat."
 
