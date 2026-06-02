@@ -13,8 +13,7 @@ class ShibinPannikodan:
         self.degree = "B.Tech in AI & Data Science"
         self.stack = ["Python", "JavaScript", "Django", "React", "TensorFlow"]
         self.currently_learning = ["System Design", "Advanced Deep Learning"]
-        self.fun_fact = "I train neural nets by day and build trading bots by night"
-        
+        self.fun_fact = "I train neural nets by day and build trading bots by night"   
     def motto(self):
         return "Architecting secure, concurrent backend systems and intelligent AI solutions."
 
@@ -155,6 +154,3 @@ class ShibinPannikodan:
 ```
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/Shibinpk0)
-
-
-
