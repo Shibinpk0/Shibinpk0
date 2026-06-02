@@ -1,4 +1,4 @@
-```markdown
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHIBIN%20PANNIKODAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Full-Stack+Web+%7C+Django+%7C+MERN;Deep+Learning+%7C+TensorFlow+%7C+NLP;Architecting+Secure+Backend+Systems)](https://git.io/typing-svg)
@@ -15,7 +15,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```python
+
 class ShibinPannikodan:
     def __init__(self):
         self.name = "Shibin Pannikodan"
@@ -27,7 +27,7 @@ class ShibinPannikodan:
         
     def motto(self):
         return "Architecting secure, concurrent backend systems and intelligent AI solutions."
-```
+
 
 <br clear="both" />
 
@@ -160,11 +160,11 @@ class ShibinPannikodan:
 
 <br />
 
-```text
+
 🧱 Advanced System Design    → Concurrency, Distributed Caching, Microservices
 🧱 Generative AI             → Prompt Engineering, LLM Fine-tuning, RAG Systems
 🧱 3D Web Development        → Custom Shaders, Physics Engines, WebGPU
-```
+
 
 <br />
 
@@ -177,4 +177,4 @@ class ShibinPannikodan:
 <br />
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/Shibinpk0)
-```
+
