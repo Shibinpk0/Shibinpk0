@@ -1,11 +1,18 @@
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHIBIN%20PANNIKODAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer&descAlignY=62&descSize=16)
+(https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHIBIN%20PANNIKODAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20AI%20Engineer&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Full-Stack+Web+%7C+Django+%7C+MERN;Deep+Learning+%7C+TensorFlow+%7C+NLP;Architecting+Secure+Backend+Systems)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shibinpk0&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="mailto:pkshibin82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-
 class ShibinPannikodan:
     def __init__(self):
         self.name = "Shibin Pannikodan"
@@ -13,11 +20,9 @@ class ShibinPannikodan:
         self.degree = "B.Tech in AI & Data Science"
         self.stack = ["Python", "JavaScript", "Django", "React", "TensorFlow"]
         self.currently_learning = ["System Design", "Advanced Deep Learning"]
-        self.fun_fact = "I train neural nets by day and build trading bots by night"   
+        self.fun_fact = "I train neural nets by day and build trading bots by night"
     def motto(self):
         return "Architecting secure, concurrent backend systems and intelligent AI solutions."
-
-
 <br clear="both" />
 
 <h3 align="left">Languages</h3>
@@ -56,6 +61,8 @@ class ShibinPannikodan:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
@@ -153,4 +160,15 @@ class ShibinPannikodan:
 🧱 3D Web Development        → Custom Shaders, Physics Engines, WebGPU
 ```
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shibinpk0/Shibinpk0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shibinpk0/Shibinpk0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shibinpk0/Shibinpk0/output/github-snake.svg" />
+</picture>
+
+<br />
+
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/Shibinpk0)
+
